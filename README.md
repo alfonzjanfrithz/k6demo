@@ -2,6 +2,9 @@
 
 This is to showcase how grafana and k6 works together. The cloud is much better, but grafana helps a little bit to visualize the test result.
 
+## K6 Installation
+https://k6.io/docs/getting-started/installation/
+
 ## Prepare the test
 The following command will spin up influxdb and grafana. Grafana will be available in localhost:3000
 ```
